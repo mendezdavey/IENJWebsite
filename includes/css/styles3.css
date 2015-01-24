@@ -54,6 +54,7 @@ Notes:	 Hand coded for Udemy.com
 	margin-bottom: 25px;
 	box-shadow: 1px 3px 8px 1px #888888;
 	padding: 0px 10px 0px 10px;
+	background-color: #F6F5ED;
 
 }
 /* --------------------------------------
@@ -88,7 +89,7 @@ ul.unstyled {
 
 .navbar {
     /*background-color: #40439B #EF8700;#E4A400 #0D2A7F(blue)*/
-    background-color: #E4A400;    
+    background-color: #000000;    
 }
 .navbar-nav a{
     color: white;
@@ -100,12 +101,12 @@ ul.unstyled {
 
 .navbar-brand {
     padding: 5px 15px;
-    color: white;
+    color:  #FFCC1C;
     text-align: center;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
-    color: black;
+    color: #FFCC1C;
     
 }
 /* --------------------------------------
@@ -115,20 +116,18 @@ ul.unstyled {
 .navbar-nav > .active > a:focus {
     color: white;
     /*background-color: #393A8C;*/
-    background-color: #EF8700;
+    background-color: #000000;
 }
 .navbar-nav > .active > a:hover {
-	color: black;
-	background: #EF8700;
+	
+	
 }
 .navbar-nav > li > a,
 .navbar-nav > li > a:focus {
     color: white;
 }
 .navbar-nav > li > a:hover {
-	background-color: #EF8700;
-	opacity: .7;
-	color: black;
+	color: #FFCC1C;
 	
 }
 /* --------------------------------------

@@ -40,7 +40,7 @@
                    <div class="nav-collapse collapse navbar-responsive-collapse">
 
                         <ul class="nav navbar-nav">
-                            <li class="active">
+                            <li class="">
                                 <a href="index.php">INICIO</a>
                             </li>
                             <li class="">
