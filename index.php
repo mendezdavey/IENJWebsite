@@ -46,7 +46,7 @@
 
 	</div><!-- end class row -->
           <div class="row">
-              <div class="col-12">
+              <div class="col-12" id="company-name-div">
                 <h2>Iglesia Evangelica Nueva Jerusalem, Manor, TX</h2>
                 <p class="lead">Que Dios te bendiga y que haga resplandecer tu rostro sobre ti!</p>
               </div><!-- end col-12 -->
@@ -54,23 +54,29 @@
           
           <div class="row">
             <div class="col-12">
-              <h3>Bienvenidos</h3>
+              <h3>
+                <strong>Bienvenidos</strong>
+              </h3>
                 <p>Somos una iglesia que busca hacer la voluntad de El Padre, para glorificarle por la salvacion que nos a dado atravez de nuestro senor Jesucristo. Nosotros no buscamos nuestro beneficio personal sino que buscamos que Dios sea glorificado en nuestras obras. Si tu quieres aprender de la palabra de Dios te invitamos para que te unas a nuestra congregacion. Oramos que Dios te guie y que resplandesca su rostro sobre de ti.</p>
             </div><!-- end col-12 -->
           </div><!-- end class row -->
-
+          <hr style="height:1px;border:none;color:#ccc;background-color:#ccc;"/>
           <div class="row">
 
             <div class="col-sm-6">
 
-              <h3>Ubicacion</h3>
+              <h3>
+                <strong>Ubicacion</strong>
+              </h3>
                 <hr>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d861.1582863422125!2d-97.5266996665444!3d30.304503726674905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b8ac8b8d35cf%3A0x181af58855798f2a!2s18400+Lockwood+Rd%2C+Manor%2C+TX+78653!5e0!3m2!1sen!2sus!4v1406340671782" width="100%" height="350" frameborder="0" style="border:0">
                 </iframe>
             </div><!-- end col-sm-6 -->
             <div class="col-sm-6">
               
-              <h3>Servicios</h3>
+              <h3>
+                <strong>Servicios</strong>
+              </h3>
               <hr>
               <em>Domingo</em><br>
               10:00am - 12:00pm (<em>primer servicio</em>) <br>

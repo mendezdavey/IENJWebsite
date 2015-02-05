@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
 	<head>
 		<!-- Website Title & Description for Search Engine purposes -->
@@ -41,13 +40,13 @@
 
                         <ul class="nav navbar-nav">
                             <li class="">
-                                <a href="index.php">INICIO</a>
+                                <a href="index.php">Inicio</a>
                             </li>
                             <li class="">
-                                <a href="quienes_somos.php">QUIENES SOMOS</a>
+                                <a href="quienes_somos.php">Quienes Somos?</a>
                             </li>
                             <li class="">
-                                <a href="contactanos.php">CONTACTANOS</a>
+                                <a href="contactanos.php">Contactanos</a>
                             </li>
              
                         </ul>
