@@ -1,5 +1,6 @@
  </div><!-- end main -->
       </div><!-- end class container --> 
+</div><!-- end background-color div-->
 
 
       

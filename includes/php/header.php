@@ -54,5 +54,6 @@
                 
             </div><!-- end container-->
         </div><!-- end navbar navbar-fixed-top -->
+	  <div class="background-color">
       <div class="container">
         <div class="main">
